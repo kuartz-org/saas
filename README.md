@@ -15,7 +15,7 @@ Le client est le locataire du serveur.
 ## Serveur emails
 Pour garantir une réception des emails envoyés automatiquement par l’application et éviter que les emails envoyés se retrouvent dans la catégorie “spam” de la boîte email des utilisateurs, nous utilisons un service spécifique pour l’envoi des emails.
 
-Le service utilisé est **Maillet**, le service est gratuit pour 6000 emails envoyés par mois (200 max par jour). Voir les [tarifs](https://fr.mailjet.com/pricing/) au delà.
+Le service utilisé est **Mailjet**, le service est gratuit pour 6000 emails envoyés par mois (200 max par jour). Voir les [tarifs](https://fr.mailjet.com/pricing/) au delà.
 
 
 ## Hébergement des fichiers et d'images
